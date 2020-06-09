@@ -20,7 +20,7 @@ Current Projects
 This project is to deal with the problems
 * underlying change is not a normal distribution but a a combination of 2 normal distribution with one mean is around target price, another is around the price before merger announcement or even lower.
 * the new implied vol surface by using this model
-* how the vol surface change before and after merger announcement change - level ($\frac{\partial \sigma }{\partial K}$), skewness, convexity
+* how the vol surface change before and after merger announcement change - level, skewness($\frac{\partial \sigma }{\partial K}$), convexity
 * how the change can explain the probability of deal success
 * Case Study: Tiffany acquired by LVMH. LVMH mulls the deal success due to COVID-19 and riots on June 2 but officially confirmed to remain the pre-target price $135 at June 5.
 
